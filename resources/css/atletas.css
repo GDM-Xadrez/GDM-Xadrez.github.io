@@ -1,0 +1,17 @@
+.atletas {
+    margin-left: 3rem;
+}
+
+.card-img-top {
+    height: auto;
+    width: 11rem;
+}
+
+.card {
+    max-width: 11rem;
+    transition: linear .3s;
+}
+
+.card:hover{
+    transform: scale(1.02);
+}

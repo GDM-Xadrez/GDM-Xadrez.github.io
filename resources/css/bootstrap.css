@@ -1,0 +1,15 @@
+.logo-navbar {
+    height: 80px;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.navbar {
+    font-size: 1.5rem;
+}
+
+#navbarNav {
+    padding-right: 2rem;
+}
