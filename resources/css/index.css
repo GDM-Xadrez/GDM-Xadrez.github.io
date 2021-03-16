@@ -19,3 +19,15 @@ header h1, h3 {
     transform: translateY(-50%);
     color: white;
 }
+
+.container {
+    margin: 2rem 3rem 2rem 3rem;
+}
+
+.anim {
+    background-color: rgba(255, 255, 255, 0) !important;  
+}
+
+.anim .nav-link {
+    color: white !important;
+}

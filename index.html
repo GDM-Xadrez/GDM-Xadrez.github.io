@@ -13,12 +13,12 @@
     
     <link rel="stylesheet" type="text/css" href="resources/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="resources/css/index.css">
-    
+
 </head>
 
 <body>
 
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white anim" id="navbar">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><img class="logo-navbar" src="resources/img/gdm-logo.png"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,10 +30,10 @@
                     <a class="nav-link" href="atletas.html">Atletas</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Treinos</a>
+                    <a class="nav-link" href="#treinos">Treinos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contactos</a>
+                    <a class="nav-link" href="#contactos">Contactos</a>
                 </li>
                 </ul>
             </div>
@@ -45,18 +45,33 @@
         <h3>Clube de xadrez de Macedo de Cavaleiros</h3>
     </header>
     
-    <div id="treinos">
+    <div class="container" id="treinos">
+        <h2>Treinos</h2>
+        <h4>Regime online:</h4>
+        <ul>
+            <li>Sexta-feira 18:00 (avançado)</li>
+            <li>Sabado 10:00 (principiantes)</li>
+        </ul>
 
+        <h4>Regime Presencial:</h4>
+        <ul>
+            <li>A determinar...</li>
+        </ul>
     </div>
 
-    <div id="contactos">
-
+    <div class="container" id="contactos">
+        <h2>Contactos</h2>
+        <ul>
+            <li>E-mail: ......</li>
+            <li>Telemóvel: .......</li>
+        </ul>
     </div>
 
     <footer>
 
     </footer>
 
+    <script src="resources/js/index.js"></script>
 </body>
 
 </html>

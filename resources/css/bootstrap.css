@@ -1,5 +1,10 @@
 .logo-navbar {
     height: 80px;
+    transition: linear .3s;
+}
+
+.logo-navbar:hover{
+    transform: scale(1.075);
 }
 
 .bg-white {
@@ -8,6 +13,15 @@
 
 .navbar {
     font-size: 1.5rem;
+    transition: linear .3s;
+}
+
+.nav-item{
+    transition: linear .3s;
+}
+
+.nav-item:hover{
+    transform: scale(1.03);
 }
 
 #navbarNav {
