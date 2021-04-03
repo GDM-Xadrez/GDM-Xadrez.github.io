@@ -10,7 +10,49 @@ var atletas = [
         "primeiro_nome": "José",
         "segundo_nome": "Martins",
         "elo": "0",
-        "jogo": "exemplo.gif",
+        "jogo": "jeronimo.gif",
+        "foto": "standard.jpg"
+    },
+    {
+        "primeiro_nome": "Clarinha",
+        "segundo_nome": "Exemplo",
+        "elo": "0",
+        "jogo": "jeronimo.gif",
+        "foto": "standard.jpg"
+    },
+    {
+        "primeiro_nome": "Exemplo",
+        "segundo_nome": "Exemplo",
+        "elo": "0",
+        "jogo": "jeronimo.gif",
+        "foto": "standard.jpg"
+    },
+    {
+        "primeiro_nome": "Exemplo",
+        "segundo_nome": "Exemplo",
+        "elo": "0",
+        "jogo": "jeronimo.gif",
+        "foto": "standard.jpg"
+    },
+    {
+        "primeiro_nome": "Exemplo",
+        "segundo_nome": "Exemplo",
+        "elo": "0",
+        "jogo": "jeronimo.gif",
+        "foto": "standard.jpg"
+    },
+    {
+        "primeiro_nome": "Exemplo",
+        "segundo_nome": "Exemplo",
+        "elo": "0",
+        "jogo": "jeronimo.gif",
+        "foto": "standard.jpg"
+    },
+    {
+        "primeiro_nome": "Exemplo",
+        "segundo_nome": "Exemplo",
+        "elo": "0",
+        "jogo": "jeronimo.gif",
         "foto": "standard.jpg"
     }
 ]
